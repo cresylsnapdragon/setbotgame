@@ -55,7 +55,7 @@
     {
       "storage": "1",
       "varName": "message",
-      "message": "Hi there, ${tempVars("member")}! Please start by introducing yourself in the 😄introductions channel! If you are here for technical help, please go to either 🤖discord-bot-help, 🐩rpg-maker-help, or 🌀mix-it-up-help! Thanks for joining :heart_eyes: ! ",
+      "message": "Hi there, ${tempVars(\"member\")}! Please start by introducing yourself in the 😄introductions channel! If you are here for technical help, please go to either 🤖discord-bot-help, 🐩rpg-maker-help, or 🌀mix-it-up-help! Thanks for joining :heart_eyes: ! ",
       "name": "Set Embed Description"
     },
     {
